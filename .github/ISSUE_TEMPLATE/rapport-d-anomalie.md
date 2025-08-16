@@ -7,14 +7,6 @@ assignees: aalleard
 
 ---
 
----
-name: "🐞 Bug"
-about: Signaler un dysfonctionnement dans Biifor
-title: "[BUG] "
-labels: ["bug"]
-assignees: ""
----
-
 ## 📌 Description du bug
 _Décrivez le problème rencontré de manière claire et concise._
 

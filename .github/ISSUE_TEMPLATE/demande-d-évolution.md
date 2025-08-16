@@ -7,14 +7,6 @@ assignees: aalleard
 
 ---
 
----
-name: "💡 Évolution"
-about: Proposer une amélioration ou une nouvelle fonctionnalité
-title: "[EVOL] "
-labels: ["enhancement"]
-assignees: ""
----
-
 ## 🎯 Objectif de l’évolution
 _Décrivez clairement la fonctionnalité ou amélioration souhaitée._
 
